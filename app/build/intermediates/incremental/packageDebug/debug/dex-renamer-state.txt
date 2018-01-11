@@ -1,0 +1,19 @@
+#Wed Jan 10 22:35:14 MST 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/22
+base.4=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/19
+base.3=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/21
+base.2=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/18
+base.1=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/20
+base.0=/Users/Hamsemare/AndroidStudioProjects/gitDemo/FillerCreepForAndroid/app/build/intermediates/transforms/dexMerger/debug/23
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
